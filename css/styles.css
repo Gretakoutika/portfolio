@@ -1,0 +1,85 @@
+.circle.responsive-img{
+	width:50%;
+	border-radius: 30px;
+}
+nav a:hover{
+	color: black;
+}
+nav{
+	font-family: Satisfy,Comic-Sans;
+}
+div.black-text{
+	font-family: Satisfy,Comic-Sans;
+	font-size: 35px;
+	font-stretch: normal;
+
+}
+div.black-text span{
+	color: #ee6e73;
+}
+div.card-panel.teal.lighten-2{
+	font-family: Satisfy,Comic-Sans;
+	font-size: 25px;
+	color: white;
+}
+div.card-panel.cyan.lighten-1{
+	font-family: Satisfy,Comic-Sans;
+	font-size: 25px;
+	color: white;	
+}
+div.card-panel.deep-purple.lighten-2{
+	font-family: Satisfy,Comic-Sans;
+	font-size: 25px;
+	color: white;	
+}
+
+#c{
+	color: white;
+}
+#e a{
+	color:#4db6ac;
+	font-family:Comic-Sans;
+
+}
+#e a:hover{
+	color: #80cbc4;
+	text-decoration:underline;
+}
+.carousel{
+		perspective: 800px;
+}
+.carousel .carousel-item
+{	height: 1000px;
+	width:1000px;
+
+
+}
+.carousel .carousel-item img{
+	width:400px;
+
+}
+.carousel .carousel-item h4{
+	margin:0;
+	padding:0;
+	text-align:center;
+	background:#26c6da;
+	color: white;
+	font-family:Satisfy,Comic-Sans;
+	box-sizing: border-box; 
+	padding:10px;
+	font-size:170%;
+}
+
+.waves-effect.waves-light.btn{
+	background-color:#9575cd;
+	box-sizing: border-box;
+	font-family: Satisfy,Comic-Sans;
+	font-size:100%;
+	text-transform:lowercase;
+
+}
+div.col.s3{
+	padding:20px;
+}
+
+
