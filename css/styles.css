@@ -32,7 +32,11 @@ div.card-panel.deep-purple.lighten-2{
 	font-size: 25px;
 	color: white;	
 }
-
+div.card-panel.pink.accent-2{
+	font-family: Satisfy,Comic-Sans;
+	font-size: 25px;
+	color: white;	
+}
 #c{
 	color: white;
 }
@@ -82,4 +86,9 @@ div.col.s3{
 	padding:20px;
 }
 
-
+.project-sub-heading{
+	font-family: Satisfy,Comic-Sans;
+	font-size: 25px;
+	color: rgb(236, 16, 137);
+	margin: 5px;	
+}
